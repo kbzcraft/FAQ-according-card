@@ -1,10 +1,13 @@
 {
   "name": "react-javascript",
+  "homepage":"https://kbzcraft.github.io/FAQ-according-card",
   "version": "1.0.0",
   "type": "module",
   "description": "React TypeScript on Replit, using Vite bundler",
   "scripts": {
     "dev": "vite",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "vite build",
     "preview": "vite preview"
   },
@@ -12,13 +15,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gh-pages": "^5.0.0",
     "i": "^0.3.7"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-react": "^3.1.0",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "typescript": "^4.9.5",
