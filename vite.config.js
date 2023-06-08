@@ -8,7 +8,7 @@ export default defineConfig(({ command }) => {
     base: '/',
   }
   if (command !== 'serve') {
-    config.base = '/<REPO_NAME>/'
+    config.base = '/FAQ-according-card/'
   }
   return config
 })
