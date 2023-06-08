@@ -1,4 +1,4 @@
-name: Deploy
+name: FAQ according card
 
 on:
   push:
