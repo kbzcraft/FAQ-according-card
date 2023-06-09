@@ -60,7 +60,7 @@ export default function Faq() {
                 <div className="qna">
                     <p onClick={toogleQNA}>
                         <span>How many team members can I invite?</span>
-                        <button><img src="/images/icon-arrow-down.svg" alt="&#8964;" /></button>
+                        <button><img src="https://raw.githubusercontent.com/kbzcraft/FAQ-according-card/2eeaac4a00f857cd8bfe62c534ec79f0e28d3b64/public/images/icon-arrow-down.svg" alt="&#8964;" /></button>
                     </p>
                     <p>
                         <span>
@@ -72,7 +72,7 @@ export default function Faq() {
                 <div className="qna">
                 <p onClick={toogleQNA}>
                         <span id='active-font'>What is the maximum file upload size?</span>
-                        <button className='rotate'><img src="/images/icon-arrow-down.svg" alt="&#8964;" /></button>
+                        <button className='rotate'><img src="https://raw.githubusercontent.com/kbzcraft/FAQ-according-card/2eeaac4a00f857cd8bfe62c534ec79f0e28d3b64/public/images/icon-arrow-down.svg" alt="&#8964;" /></button>
                     </p>
                     <p id='active'>
                         <span>
@@ -85,7 +85,7 @@ export default function Faq() {
                         <span>
                         How do I reset my password?
                         </span>
-                        <button><img src="/images/icon-arrow-down.svg" alt="&#8964;" /></button>
+                        <button><img src="https://raw.githubusercontent.com/kbzcraft/FAQ-according-card/2eeaac4a00f857cd8bfe62c534ec79f0e28d3b64/public/images/icon-arrow-down.svg" alt="&#8964;" /></button>
                     </p>
                     <p>
                         <span>
@@ -99,7 +99,7 @@ export default function Faq() {
                         <span>
                         Can I cancel my subscription?
                         </span>
-                        <button><img src="/images/icon-arrow-down.svg" alt="&#8964;" /></button>
+                        <button><img src="https://raw.githubusercontent.com/kbzcraft/FAQ-according-card/2eeaac4a00f857cd8bfe62c534ec79f0e28d3b64/public/images/icon-arrow-down.svg" alt="&#8964;" /></button>
                     </p>
                     <p>
                         <span>
@@ -112,7 +112,7 @@ export default function Faq() {
                         <span>
                         Do you provide additional support?
                         </span>
-                        <button><img src="/images/icon-arrow-down.svg" alt="&#8964;" /></button>
+                        <button><img src="https://raw.githubusercontent.com/kbzcraft/FAQ-according-card/2eeaac4a00f857cd8bfe62c534ec79f0e28d3b64/public/images/icon-arrow-down.svg" alt="&#8964;" /></button>
                     </p>
                     <p>
                         <span>
