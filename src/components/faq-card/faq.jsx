@@ -52,7 +52,7 @@ export default function Faq() {
                 {/* <img className='women-illustration' src="images/illustration-woman-online-desktop.svg" alt='illustration woman online'/> */}
                 <img loading='lazy' src="images/illustration-woman-online-mobile.svg" alt="illustration-woman-online-mobile" className="mobile-illustration" />
                 <div className='box-image'>
-                    <img  className='box' src="https://raw.githubusercontent.com/kbzcraft/FAQ-according-card/7d57d32a492493d24c42b5f00d549017a1e71568/public/images/illustration-box-desktop.svg" alt='illustration-box-svg' />
+                    <img  className='box' src="https://raw.githubusercontent.com/kbzcraft/FAQ-according-card/7d57d32a492493d24c42b5f00d549017a1e71568/public/images/illustration-box-desktop.svg" alt='' />
                 </div>
             </div>
             <div className="faqs">
